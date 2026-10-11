@@ -2,12 +2,12 @@
 <h3 align="center">一只冰蓝色的小龙，正在学习编程</h3>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/181607600?v=4&size=64" width="180" />
+  <img src="./dragon-head0.png" width="200" />
 </p>
 
 <p align="center">
   <a href="https://eyroicedragon.kesug.com" target="_blank">
-    <img src="https://img.shields.io/badge/个人网站-eyroicedragon.kesug.com-4dd0e1?style=flat" />
+    <img src="https://img.shields.io/badge/个人网站-点击访问-4dd0e1?style=flat" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=EyroIceDragon&label=来看看小龙&color=4dd0e1&style=flat" alt="profile views" />
 </p>
@@ -17,7 +17,7 @@
 ### 关于这只龙
 
 - **2024 年** 接触了 **GML**，从此掉进了编程的坑
-- **2026 年** 开始啃 **Java**，目前还在被 Java 按在地上摩擦
+- **2025 年** 开始啃 **Java**，目前还在被 Java 按在地上摩擦
 - **2024 年** 拥有了自己的 GitHub 小窝，开始囤代码
 - 美术不太懂，画出来的龙可能像一只胖蜥蜴
 - 但是！**我热爱编程**！虽然很菜，但我会一直开发下去的！
