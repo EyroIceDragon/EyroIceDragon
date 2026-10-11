@@ -9,7 +9,6 @@
   <a href="https://eyroicedragon.kesug.com" target="_blank">
     <img src="https://img.shields.io/badge/个人网站-点击访问-4dd0e1?style=flat" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=EyroIceDragon&label=来看看小龙&color=4dd0e1&style=flat" alt="profile views" />
 </p>
 
 ---
@@ -25,7 +24,7 @@
 
 ---
 
-### 技能面板（小龙版）
+### 技能面板
 
 <p align="left">
   <img src="https://img.shields.io/badge/GML-FF6600?style=for-the-badge&logo=gamemaker&logoColor=white" />
