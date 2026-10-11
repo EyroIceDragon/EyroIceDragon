@@ -97,7 +97,7 @@
 </p>
 
 <p align="left">
-  <a href="https://www.youtube.com/@GoodTimes2" target="_blank">
+  <a href="https://www.youtube.com/@goodtime-g4b" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-GoodTimes2-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
   <a href="https://space.bilibili.com/1561962848" target="_blank">
